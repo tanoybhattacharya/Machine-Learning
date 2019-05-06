@@ -1,4 +1,4 @@
-# Muffin_vs_Cupcake_unsing_SVM
+# Muffin_vs_Cupcake_using_SVM
 <b>muffin-cupcake<b>
 
 Classifying muffin and cupcake recipes using support vector machines
